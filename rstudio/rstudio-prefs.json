@@ -1,0 +1,43 @@
+{
+    "initial_working_directory": "~/R",
+    "editor_theme": "Idle Fingers",
+    "posix_terminal_shell": "bash",
+    "global_theme": "alternate",
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "VCS",
+            "Tutorial",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Plots",
+            "Packages",
+            "Help",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "default_encoding": "UTF-8",
+    "jobs_tab_visibility": "shown",
+    "restore_source_documents": false,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "always_save_history": false,
+    "restore_last_project": false,
+    "default_open_project_location": "~/R"
+}

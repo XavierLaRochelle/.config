@@ -1,0 +1,6 @@
+{
+    "insertAssignmentOperator": "Ctrl+=",
+    "activateConsole": "Ctrl+C",
+    "activateSource": "Ctrl+S",
+    "clearWorkspace": "Cmd+R"
+}
