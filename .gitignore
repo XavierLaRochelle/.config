@@ -1,3 +1,4 @@
 *.git
 raycast/extensions/*
 excelchop/*
+*.DS_Store
